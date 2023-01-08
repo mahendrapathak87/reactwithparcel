@@ -1,0 +1,28 @@
+{
+  "name": "reactwithparcel",
+  "version": "1.0.0",
+  "description": "React with Parcel",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendrapathak87/reactwithparcel.git"
+  },
+  "author": "Mahendra Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendrapathak87/reactwithparcel/issues"
+  },
+  "homepage": "https://github.com/mahendrapathak87/reactwithparcel#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
